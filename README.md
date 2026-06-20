@@ -174,7 +174,7 @@ This screenshot demonstrates:
 
 Hosted on AWS EC2
 
-Public IP:(http://13.233.127.26:5000/#)
+Public IP:  http://13.233.127.26:5000/#
 
 Technologies:
 ☁️ AWS EC2
