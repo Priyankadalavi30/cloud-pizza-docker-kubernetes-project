@@ -170,8 +170,19 @@ This screenshot demonstrates:
 
 ![Kubernetes Demo](screenshots/kubernetes.jpeg)
 ---
+🌐 Live Application
 
+Hosted on AWS EC2
+
+Public IP:(http://13.233.127.26:5000/#)
+
+Technologies:
+☁️ AWS EC2
+🐳 Docker
+☸️ Kubernetes
+🐍 Flask
 ## 👩‍💻 Author
+
 
 Priyanka Dalavi
 
